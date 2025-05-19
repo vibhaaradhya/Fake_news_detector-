@@ -1,1 +1,1 @@
-# Fake_news_detector-
+# Fake_news_detector
